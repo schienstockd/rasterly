@@ -1,3 +1,5 @@
+# Maintenance to keep running for Cecelia gating plots
+
 # rasterly <img src="https://user-images.githubusercontent.com/9809798/67056539-75d75200-f11a-11e9-9b62-2b62a349a45b.jpg" align="right" height="144" width="124.8">
 
 [![Build Status](https://travis-ci.org/z267xu/rasterly.svg?branch=master)](https://travis-ci.org/z267xu/rasterly)
